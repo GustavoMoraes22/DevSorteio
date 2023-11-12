@@ -3,7 +3,7 @@
 <h2 align="center">Preview</h2>
 
 <div align="center">
- <img src = 'https://github.com/GustavoMoraes22/Convert-Money/blob/main/assets/projeto.png?raw=true'>
+ <img src = 'https://github.com/GustavoMoraes22/DevSorteio/blob/main/assets/Sem%20t%C3%ADtulo.png?raw=true'>
 </div>
 
 <h2 align="center">Tecnologias</h2>
